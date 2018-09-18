@@ -31,6 +31,6 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ## Acknowledgments
 
-* Specail thanks for Martin Mwendwa for the great course on UDEMY [The Complete PHP MySQL Professional Course with 5 Projects](https://www.udemy.com/the-complete-php-mysql-professional-course/)
+* Specail thanks for Jazeb Akram  for the great course on UDEMY [The Complete PHP MySQL Professional Course with 5 Projects](https://www.udemy.com/the-complete-php-mysql-professional-course/)
 
 
